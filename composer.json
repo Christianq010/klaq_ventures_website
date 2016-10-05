@@ -1,0 +1,16 @@
+{
+    "name": "christiaan/klaq",
+    "authors": [
+        {
+            "name": "Christiaan Quyn",
+            "email": "christianq010@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "~1.13",
+        "slim/slim": "~2.6",
+        "twig/twig": "~1.18",
+        "slim/views": "0.1.*",
+        "swiftmailer/swiftmailer": "~5.4"
+    }
+}
